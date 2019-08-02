@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="xmlLearning1">
+<test name="TestNG">
+<classes>
+<class name ="xmlLearning1.xmlDemo1"/>
+<class name ="xmlLearning1.XmlDemo2"/>
+</classes>
+</test>
+</suite>
